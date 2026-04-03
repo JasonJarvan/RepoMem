@@ -18,6 +18,8 @@
 ![Stars](https://img.shields.io/github/stars/JasonJarvan/RepoMem?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/JasonJarvan/RepoMem?style=flat-square)
 
+![RepoMem Social Preview](./assets/repomem_social_preview.png)
+
 </div>
 
 RepoMem gives your repository a durable, reviewable place to store:

@@ -18,6 +18,8 @@
 ![Stars](https://img.shields.io/github/stars/JasonJarvan/RepoMem?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/JasonJarvan/RepoMem?style=flat-square)
 
+![RepoMem Social Preview](./assets/repomem_social_preview.png)
+
 </div>
 
 RepoMem 为仓库提供一个可审阅、可持续、可沉淀的地方，用来存放：
