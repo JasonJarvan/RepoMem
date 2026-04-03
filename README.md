@@ -6,6 +6,8 @@
 
 **A persistent memory layer for code repositories and coding agents.**
 
+**Compatible with GSD, ECC, OpenSpec, Superpowers, BMAD, gstack, and similar workflows.**
+
 [English](./README.md) / [中文](./README_CN.md)
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-Repo%20Memory%20Layer-111111?style=flat-square)
@@ -29,6 +31,12 @@ Instead of letting important context live only in chats, agent sessions, or scat
 
 RepoMem is **not** a full delivery workflow orchestrator.
 It is the memory layer you can use on its own or embed into other workflows.
+
+## Workflow Compatibility
+
+RepoMem is natively compatible with GSD, ECC, OpenSpec, Superpowers, BMAD, gstack, and similar workflows.
+
+For the best integrated developer experience, use it with [HarnessStack](https://github.com/JasonJarvan/HarnessStack).
 
 ## Why RepoMem
 

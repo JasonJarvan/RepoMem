@@ -1,5 +1,11 @@
 # RepoMem Social Preview Layout
 
+## Selected Asset
+
+- Repository path: `docs/marketing/repomem-social-preview.png`
+- Current size: `781 x 331`
+- Status: selected for manual upload as the GitHub repository social preview image
+
 ## Canvas
 
 - Size: `1280 x 640`

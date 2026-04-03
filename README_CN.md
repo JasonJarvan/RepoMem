@@ -6,6 +6,8 @@
 
 **一个面向代码仓库与 AI Coding Agent 的持久化记忆层。**
 
+**支持与 GSD、ECC、OpenSpec、Superpowers、BMAD、gstack 等工作流兼容。**
+
 [English](./README.md) / [中文](./README_CN.md)
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-Repo%20Memory%20Layer-111111?style=flat-square)
@@ -29,6 +31,12 @@ RepoMem 为仓库提供一个可审阅、可持续、可沉淀的地方，用来
 
 RepoMem **不是**完整的交付工作流编排器。
 它更像是一个可独立使用、也可嵌入其他工作流的记忆层。
+
+## 与其他工作流兼容
+
+原生支持与 GSD、ECC、OpenSpec、Superpowers、BMAD、gstack 等工作流兼容。
+
+推荐通过 [HarnessStack](https://github.com/JasonJarvan/HarnessStack) 获得最佳兼容开发体验。
 
 ## 为什么是 RepoMem
 
