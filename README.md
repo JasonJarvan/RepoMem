@@ -14,7 +14,7 @@
 ![HITL](https://img.shields.io/badge/HITL-Review%20Before%20Long--term%20Writes-0A7B83?style=flat-square)
 ![Memory Model](https://img.shields.io/badge/Temp-%3E%20Merge%20%3E%20Persist-8A5CF6?style=flat-square)
 ![Repo-native](https://img.shields.io/badge/Repo--native-Durable%20Memory-2D6A4F?style=flat-square)
-![License](https://img.shields.io/github/license/JasonJarvan/RepoMem?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-black?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/JasonJarvan/RepoMem?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/JasonJarvan/RepoMem?style=flat-square)
 
@@ -275,14 +275,13 @@ docs/RepoMem/
 
 ## License
 
-RepoMem is licensed under **Apache License 2.0**.
+RepoMem is licensed under the **MIT License**.
 
-That means you can use, modify, and commercialize it, as long as you keep the required license and attribution notices.
+That means you can use, modify, and commercialize it, as long as you keep the copyright notice and license text.
 
 See:
 
 - [LICENSE](/home/shenzhou/Codes/CodingAgentHarnessSystem/RepoMem/LICENSE)
-- [NOTICE](/home/shenzhou/Codes/CodingAgentHarnessSystem/RepoMem/NOTICE)
 
 ## One-Line Pitch
 
